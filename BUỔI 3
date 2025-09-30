@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <P ALIGN="CENTER"><STRONG>CHƯƠNG 2</STRONG></P>
+    <P ALIGN="CENTER"><STRONG>TẠO TRANG WEB VỚI HTML</STRONG></P>
+<a href="GIỚI THIỆU .HTML">ĐI TỚI TRANG GIỚI THIỆU</a><BR>
+<a href="DANH SACH CÓ VÀ KHÔNG CÓ THỨ TỰ.HTML">ĐI TỚI TRANG DANH SÁCH</a>
+</body>
+</html>
